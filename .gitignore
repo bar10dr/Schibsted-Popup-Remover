@@ -1,0 +1,14 @@
+# Packaged builds
+*.zip
+*.crx
+*.pem
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/
+
+# Node (not used at runtime; only if you add tooling later)
+node_modules/
