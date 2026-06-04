@@ -21,4 +21,4 @@ data.
 
 ## Contact
 
-Questions: bs@bar10dr.com
+Questions: bar10dr@gmail.com
